@@ -9,5 +9,8 @@
 - Email: [xmu310@gmail.com](mailto:xmu310@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/xmu310/](https://www.linkedin.com/in/xmu310/)
 
+## Github Status
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xmu310&theme=dark" alt="GitHub Streak" /></a>
+
 ## Leetcode Status
 <p><img align="center" src="https://leetcard.jacoblin.cool/xmu310?theme=dark&font=Abhaya%20Libre&ext=contest" alt="xmu310" /></p>

@@ -5,5 +5,6 @@
 ## Leetcode Status
 <p><img align="center" src="https://leetcard.jacoblin.cool/xmu310?theme=dark&font=Abhaya%20Libre&ext=contest" alt="xmu310" /></p>
 
-## Github Status
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=xmu310&theme=dark" alt="GitHub Streak" /></a>
+## Codeforces Status
+![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=xmu310&theme=dark)
+![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/graph?username=xmu310&theme=dark)
